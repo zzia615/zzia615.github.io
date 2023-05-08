@@ -1,0 +1,19 @@
+{
+  "name": "jaylosy blog",
+  "version": "0.0.1",
+  "description": "jaylosy blog",
+  "main": "index.js",
+  "authors": {
+    "name": "jiaolong",
+    "email": "zzia615@163.com"
+  },
+  "repository": "zzia615.github.io/jaylosy blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
